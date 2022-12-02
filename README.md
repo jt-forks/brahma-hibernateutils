@@ -1,6 +1,7 @@
 [![CircleCI](https://circleci.com/gh/gozefo/brahma-hibernateutils/tree/master.svg?style=svg)](https://circleci.com/gh/gozefo/brahma-hibernateutils/tree/master)
 [![Maven metadata URI](https://img.shields.io/maven-metadata/v/http/central.maven.org/maven2/com/gozefo/brahma/brahma-hibernateutils/maven-metadata.xml.svg)](https://mvnrepository.com/artifact/com.gozefo.brahma/brahma-hibernateutils/1.0.1)
 [![codecov](https://codecov.io/gh/gozefo/brahma-hibernateutils/branch/master/graph/badge.svg)](https://codecov.io/gh/gozefo/brahma-hibernateutils)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FjustinTsugranes%2Fbrahma-hibernateutils.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FjustinTsugranes%2Fbrahma-hibernateutils?ref=badge_shield)
 # Bramha-HibernateUtils
 An annotation processor which auto generates a list of all classes with [```@Entity```](https://docs.oracle.com/javaee/6/api/javax/persistence/Entity.html) annotation.
 
@@ -91,3 +92,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FjustinTsugranes%2Fbrahma-hibernateutils.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FjustinTsugranes%2Fbrahma-hibernateutils?ref=badge_large)
